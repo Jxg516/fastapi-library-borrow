@@ -1,4 +1,4 @@
-# 2026-11-22-fastapi-library-borrow
+# fastapi-library-borrow
 
 CSDN 周三热点配套项目：**内存版图书借阅 API**（FastAPI）。
 
@@ -47,4 +47,5 @@ uvicorn main:app --host 127.0.0.1 --port 8765
 
 ## 关联文章
 
-CSDN 稿件见博主「周三热点实战」系列；项目 slug 与本仓库名一致。
+**项目搭建详解**：[docs/GUIDE.md](docs/GUIDE.md)  
+CSDN 稿件见博主「周三热点实战」系列；**项目名 = 本仓库名**。
